@@ -1,0 +1,18 @@
+.tit-sub01 {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 500;
+    color: #222;
+    margin: 50px 0 0px 0;
+}
+.tit-sub02 {
+    text-align: center;
+    font-size: 13px;
+    font-weight: normal;
+    color: #999;
+    margin: 5px 0 45px 0;
+    font-family: 'Open Sans', Arial, Verdana, sans-serif;
+}
+.map-area {
+    margin: 0 0 50px 0;
+}
