@@ -16,3 +16,31 @@
 .map-area {
     margin: 0 0 50px 0;
 }
+.t1 {
+    width: 100%;
+    margin: 0 auto;
+    border-left: 0px solid #ddd;
+    border-right: 0px solid #ddd;
+    border-top: 3px solid #555;
+    border-bottom: 1px solid #ddd;
+    font-size: 15px;
+}
+.t1 th:first-child {
+    border-left: 0px;
+}
+.t1 th {
+    padding: 20px 20px 20px 20px;
+    background-color: #fafafa;
+    color: #555;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    text-align: center;
+}
+.t1 td {
+    padding: 20px 20px 20px 20px;
+    background-color: #ffffff;
+    color: #777;
+    border-bottom: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    text-align: left;
+}

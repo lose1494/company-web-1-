@@ -1,0 +1,23 @@
+.tit-sub01 {
+    font-size: 28px;
+    color: #222;
+    margin: 50px 0 0px 0;
+}
+.tit-sub02 {
+    font-size: 13px;
+    color: #999;
+    margin: 5px 0 45px 0;
+    font-family: 'Open Sans', Arial, Verdana, sans-serif;
+}
+.col-md-3 {
+    width: 25%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.gallery_title {
+    font-size: 1.1em;
+    font-weight: normal;
+    font-family: Noto Sans KR,맑은 고딕,돋움,굴림;
+    color: #666;
+    line-height: 24px;
+}

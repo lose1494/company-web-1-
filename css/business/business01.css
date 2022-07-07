@@ -1,0 +1,37 @@
+.tit-sub01 {
+    font-size: 28px;
+    color: #222;
+    margin: 50px 0 0 0;
+}
+.tit-sub02 {
+    font-size: 13px;
+    color: #999;
+    margin: 5px 0 45px 0;
+    font-family: 'Open Sans', Arial, Verdana, sans-serif;
+}
+.ts01{
+    color: #444;
+    font-size: 28px;
+    margin: 0 0 20px 0;
+}
+.ts02{
+    color: #777;
+    font-size: 16px;
+    font-weight: normal;
+}
+.xb-title h3 {
+    color: #333;
+    font-size: 17px;
+    margin: 5px 0 0 0;
+    padding: 15px 0px 0px 0px;
+}
+.xb-title h5 {
+    color: #777;
+    font-size: 15px;
+    margin: 5px 0 0 0;
+}
+
+.dfs-divider01 {
+    margin: 100px 0;
+    clear: both;
+}
