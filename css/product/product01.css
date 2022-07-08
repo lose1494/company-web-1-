@@ -21,3 +21,22 @@
     color: #666;
     line-height: 24px;
 }
+.search {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: start;
+}
+.search select {
+    font-size: 13px;
+    padding: 4px 5px 4px 5px;
+    border: 1px solid #aaa;
+}
+.search input {
+    font-size: 13px;
+    padding: 5px 5px 5px 5px;
+    margin: 0 0 0 2px;
+    border: 1px solid #aaa;
+    font-family: inherit;
+    /* font-size: inherit; */
+    line-height: inherit;
+}
